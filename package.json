@@ -1,0 +1,21 @@
+{
+  "name": "learning-app-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "body-parser": "^1.20.2",
+    "mysql2": "^3.4.0",
+    "react": "19.1.1",
+    "react-dom": "19.1.1",
+    "idb": "8.0.3",
+    "firebase": "12.2.1",
+    "idb-keyval": "6.2.2",
+    "recharts": "3.2.1",
+    "react-is": "19.1.1"
+  }
+}
